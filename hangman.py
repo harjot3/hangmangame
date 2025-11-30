@@ -2,7 +2,7 @@
 # what i'll need to do:
 # fetch a random word,
 # if the user gets a letter right, then I fill that letter in, 
-# else, they lose on of their 6 guesses
+# else, they lose on of their 6 guess
 import random
 playGame = True
 INCORRECT_WORDS = ['!@#$%^&*(){\}"`~;:.,/\+=-0_?><']
